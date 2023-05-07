@@ -1,2 +1,2 @@
 # userDetailService
-Spring suthentication using UserDetailsService interface and Thymleaf
+Spring authentication using UserDetailsService interface and Thymleaf
